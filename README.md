@@ -11,3 +11,6 @@ as expected in Jupyter Notebook file.
 Deadline for submission is 15th December till midnight.
 You will need to fork this project in order to get your
 homework reviewed.
+
+EDIT: Script doesn't change the transparent pixels, it's
+matplotlib that renders them black.
